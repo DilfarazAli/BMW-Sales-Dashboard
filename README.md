@@ -22,8 +22,6 @@ It highlights performance across regions, models, colors, transmission types, an
 - Slicers for interactive filtering  
 - Dashboard design & visualization best practices  
 
-## 📷 Dashboard Preview
-![BMW Dashboard Screenshot](C:\Users\ali00\OneDrive\Pictures\Screenshots)
 
 ## 🚀 How to Use
 1. Download the Excel file: **BMW PROJECT.xlsx**  

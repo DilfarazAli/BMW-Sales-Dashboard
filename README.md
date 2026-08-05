@@ -13,8 +13,7 @@ It highlights performance across regions, models, colors, transmission types, an
 - 🌍 **Asia** leads in sales volume.  
 - 🎨 **Red** is the most popular vehicle color.  
 - 🚘 **BMW 7 Series** is the top-selling model.  
-- ⚙️ Transmission sales are nearly balanced between **Automatic** and **Manual**.  
-- 📅 Sales peaked in **2022** and **2024**, showing strong growth trends.  
+- ⚙️ Transmission sales are nearly balanced between **Automatic** and **Manual**.    
 
 ## 🛠️ Tools & Techniques
 - Microsoft Excel  
